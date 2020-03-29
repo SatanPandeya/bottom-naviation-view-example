@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/phoneId"
+        android:icon="@drawable/ic_smartphone_black_24dp"
+        android:title="@string/phone"/>
+    <item
+        android:id="@+id/cameraId"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="@string/camera"/>
+    <item
+        android:id="@+id/messageId"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="@string/message"/>
+    <item
+        android:id="@+id/albumsId"
+        android:icon="@drawable/ic_photo_album_black_24dp"
+        android:title="@string/albums"/>
+</menu>

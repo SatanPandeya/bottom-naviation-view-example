@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation View</string>
+    <string name="phone">Phone</string>
+    <string name="camera">Camera</string>
+    <string name="message">Message</string>
+    <string name="albums">Favorite</string>
+</resources>
